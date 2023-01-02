@@ -1,2 +1,2 @@
 # 
-#30Days6Companies Challenge by Arsh Goyal #ReviseWithArsh
+#6Companies30Days Challenge by Arsh Goyal #ReviseWithArsh
